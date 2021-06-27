@@ -1,1 +1,3 @@
 # Assignment-22-Neural-Network-forestfires
+
+Q) PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
